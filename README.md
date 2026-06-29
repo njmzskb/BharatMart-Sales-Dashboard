@@ -8,9 +8,9 @@ The dashboard analyzes **21,466 retail transactions** across multiple store loca
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 DASHBOARD Preview
 
-> *(Add your dashboard screenshot here after uploading Dashboard.png)*
+> ![Dashboard Preview](DASHBOARD.png)
 
 ---
 
@@ -66,9 +66,9 @@ The dashboard analyzes **21,466 retail transactions** across multiple store loca
 
 ## 📂 Files Included
 
-- BharatMart Sales Dashboard.xlsx
-- Dashboard.png
-- Dataset.png
+- BHARATMART DASHBOARD.xlsx
+- DASHBOARD.png
+- DATASET.png
 
 ---
 
